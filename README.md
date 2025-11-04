@@ -1,4 +1,4 @@
-# Hospital Patient Survival Analysis (SQL)
+# Covid-19 Patient Survival Analysis (SQL)
 
 ## Project Overview
 
